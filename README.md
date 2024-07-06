@@ -1,2 +1,2 @@
 # projects
-projects that i made while learning
+tic tac toe game based on htm css javascript
