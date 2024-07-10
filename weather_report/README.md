@@ -39,6 +39,9 @@ Example Screenshot:
 
        ![Screenshot](screenshot.png)
 
+Contact:
 
+        Yash Saini: email:starkcover5@gmail.com 
+        project link: https://github.com/Starkcover/projects/edit/main/weather_report
 
 
