@@ -35,7 +35,10 @@ Usage:
     Enter the name of the city you want to get the weather report for.
     Click the "Get Weather" button.
     View the real-time weather information displayed on the page.
-Example Screenshot
+Example Screenshot:
+
+       ![Screenshot](screenshot.png)
+
 
 
 
